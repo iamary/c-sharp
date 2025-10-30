@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\C#\8C#\8C#\bin\Debug\net8.0\8C#.exe
+C:\Users\Dell\Desktop\C#\8C#\8C#\bin\Debug\net8.0\8C#.deps.json
+C:\Users\Dell\Desktop\C#\8C#\8C#\bin\Debug\net8.0\8C#.runtimeconfig.json
+C:\Users\Dell\Desktop\C#\8C#\8C#\bin\Debug\net8.0\8C#.dll
+C:\Users\Dell\Desktop\C#\8C#\8C#\bin\Debug\net8.0\8C#.pdb
+C:\Users\Dell\Desktop\C#\8C#\8C#\obj\Debug\net8.0\8C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\C#\8C#\8C#\obj\Debug\net8.0\8C#.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\C#\8C#\8C#\obj\Debug\net8.0\8C#.AssemblyInfo.cs
+C:\Users\Dell\Desktop\C#\8C#\8C#\obj\Debug\net8.0\8C#.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C#\8C#\8C#\obj\Debug\net8.0\8C#.dll
+C:\Users\Dell\Desktop\C#\8C#\8C#\obj\Debug\net8.0\refint\8C#.dll
+C:\Users\Dell\Desktop\C#\8C#\8C#\obj\Debug\net8.0\8C#.pdb
+C:\Users\Dell\Desktop\C#\8C#\8C#\obj\Debug\net8.0\8C#.genruntimeconfig.cache
+C:\Users\Dell\Desktop\C#\8C#\8C#\obj\Debug\net8.0\ref\8C#.dll

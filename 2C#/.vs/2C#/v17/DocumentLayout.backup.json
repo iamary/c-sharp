@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\C#\\2C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D691D8F-6506-4723-9C34-AD1F47605383}|2C#\\2C#.csproj|c:\\users\\dell\\desktop\\c#\\2c#\\2c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D691D8F-6506-4723-9C34-AD1F47605383}|2C#\\2C#.csproj|solutionrelative:2c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\C#\\2C#\\2C#\\Program.cs",
+              "RelativeDocumentMoniker": "2C#\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\C#\\2C#\\2C#\\Program.cs",
+              "RelativeToolTip": "2C#\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T07:20:16.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
